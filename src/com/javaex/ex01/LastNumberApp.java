@@ -1,4 +1,4 @@
-/*Done/2021.12.10(금), 2021.12.11(토)16:43: try-catch, int[]속성 알기
+/*Done/2021.12.10(금), 2021.12.11(토)16:43: ExceptionHandling중 try-catch
 
 [문제] com.javaex.ex01 패키지
 LastNumberApp.java 코드 실행시 아래와 같이 예외가 발생합니다.
