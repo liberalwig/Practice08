@@ -1,4 +1,4 @@
-/* 2021.12.12(일)15:22: toString()overrides Object
+/*Done/ 2021.12.12(일)15:22: toString()overrides Object
 
 [문제] com.javaex.ex03 패키지
 PointApp.java 실행시 아래와 같이 출력됩니다.
