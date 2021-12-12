@@ -1,4 +1,4 @@
-/*2021.12.11(토)16:46, 2021.12.12(일)15:19
+/*2021.12.11(토)16:46, 2021.12.12(일)15:20 ExceptionHandling중 difference of positioning throws
 
 [문제] com.javaex.ex02 패키지
 FileApp.java 코드 main() 메소드 실행시 아래와 같이 예외가 발생합니다.
