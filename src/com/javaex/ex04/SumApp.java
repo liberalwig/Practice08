@@ -1,3 +1,10 @@
+/*2021.12.12(일)15:31: 
+
+[문제] com.javaex.ex04 패키지
+아래와 같이 숫자를 입력받고 출력되도록 프로그램을 작성하세요.
+
+*/
+
 package com.javaex.ex04;
 
 import java.util.Scanner;
